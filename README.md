@@ -2,7 +2,7 @@
 
 Clone the repository:
 ```
-git clone https://github.com/albertbn/stock_movement_prediction.git
+git clone https://github.com/MargaritaBentov/stock_movement_prediction.git
 cd stock_movement_prediction
 ```
 Install requirements:
